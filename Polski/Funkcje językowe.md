@@ -13,4 +13,9 @@ Pozwala na przekazywanie emocji. Wykorzystuje się np. *przymiotniki opisujące 
 ### Funkcja impresywna (apelatywna, perswazyjna)
 
 Pozwala na zmiane poglądów, nakłoenie do konkretnych działać bądź wywołanie określonej reakcji.
-Jest to funkcja nastawiona na 
+**Jest to funkcja nastawiona na odbiorce**
+
+### Funkcja metajęzykowa
+
+Pozwala na definiowanie słow, zasad gramatycznych.
+**Jest nastawiona na kod (język)**
