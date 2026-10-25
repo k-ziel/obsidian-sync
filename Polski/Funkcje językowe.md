@@ -25,3 +25,13 @@ Pozwala na definiowanie słow, zasad gramatycznych.
 
 ### Funkcja fatyczna
 
+Pozwala na zaczynanie oraz utrzymywanie kontaktu, tak aby komunikacja przebiegła poprawnie
+**Jest nastawiona na kontakt**
+*Przykład: Dzień dobry, ykhym, Do zobaczenia*
+
+### Funkcja estetyczna (poetycka)
+
+Zwraca uwage na posób przekazania treści.
+Używamy metafor, porównań, epitety itp.
+**Jest nastawiona na treść**
+*Przykład: *
