@@ -34,4 +34,4 @@ Pozwala na zaczynanie oraz utrzymywanie kontaktu, tak aby komunikacja przebiegł
 Zwraca uwage na posób przekazania treści.
 Używamy metafor, porównań, epitety itp.
 **Jest nastawiona na treść**
-*Przykład: Mądry polak po szkodzie*
+*Przykład: Wpływałem na suchego przestwór oceanu*
